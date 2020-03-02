@@ -1,0 +1,981 @@
+
+25-Feb-20 19:56:45 - root - INFO - New measure
+25-Feb-20 19:56:45 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 19:56:45 - root - INFO - Getting temperature and humidity
+25-Feb-20 19:56:45 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 19:56:45 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 19:56:46 - root - INFO - Data saved!
+25-Feb-20 19:57:17 - root - INFO - New measure
+25-Feb-20 19:57:17 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 19:57:17 - root - INFO - Getting temperature and humidity
+25-Feb-20 19:57:20 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 19:57:20 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 19:57:20 - root - INFO - Data saved!
+25-Feb-20 19:57:30 - root - WARNING - LCD ERROR
+25-Feb-20 20:01:07 - root - INFO -               Application startup               
+25-Feb-20 20:01:07 - root - INFO - ################################################
+25-Feb-20 20:01:07 - root - INFO - &    **************    ****           ****     &
+25-Feb-20 20:01:07 - root - INFO - &    **************    *****         *****     &
+25-Feb-20 20:01:07 - root - INFO - &    ***               *** **       ** ***     &
+25-Feb-20 20:01:07 - root - INFO - &    ***               ***  **     **  ***     &
+25-Feb-20 20:01:07 - root - INFO - &    ***************   ***   *******   ***     &
+25-Feb-20 20:01:07 - root - INFO - &    ***************   ***     ***     ***     &
+25-Feb-20 20:01:07 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:01:07 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:01:07 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:01:07 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:01:07 - root - INFO - ################################################
+25-Feb-20 20:01:07 - root - INFO - Sensor serial number: %s SM-005
+25-Feb-20 20:01:07 - root - INFO - Database connected!
+25-Feb-20 20:01:07 - root - INFO - PM sensor is getting up
+25-Feb-20 20:01:07 - root - ERROR - PM sensor connection failed!
+25-Feb-20 20:01:07 - root - INFO - New measure
+25-Feb-20 20:01:07 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:01:07 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:01:08 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:01:08 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:01:08 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+25-Feb-20 20:01:09 - root - INFO - Data saved!
+25-Feb-20 20:01:40 - root - INFO - New measure
+25-Feb-20 20:01:40 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:01:40 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:01:40 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:01:40 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:01:41 - root - INFO - Data saved!
+25-Feb-20 20:02:12 - root - INFO - New measure
+25-Feb-20 20:02:12 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:02:12 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:02:15 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:02:15 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:02:15 - root - INFO - Data saved!
+25-Feb-20 20:02:46 - root - INFO - New measure
+25-Feb-20 20:02:46 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:02:46 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:02:47 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:02:47 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:02:47 - root - INFO - Data saved!
+25-Feb-20 20:03:18 - root - INFO - New measure
+25-Feb-20 20:03:18 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:03:18 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:03:19 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:03:19 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:03:19 - root - INFO - Data saved!
+25-Feb-20 20:06:51 - root - INFO -               Application startup               
+25-Feb-20 20:06:51 - root - INFO - ################################################
+25-Feb-20 20:06:51 - root - INFO - &    **************    ****           ****     &
+25-Feb-20 20:06:51 - root - INFO - &    **************    *****         *****     &
+25-Feb-20 20:06:51 - root - INFO - &    ***               *** **       ** ***     &
+25-Feb-20 20:06:51 - root - INFO - &    ***               ***  **     **  ***     &
+25-Feb-20 20:06:51 - root - INFO - &    ***************   ***   *******   ***     &
+25-Feb-20 20:06:51 - root - INFO - &    ***************   ***     ***     ***     &
+25-Feb-20 20:06:51 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:06:51 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:06:51 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:06:51 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:06:51 - root - INFO - ################################################
+25-Feb-20 20:06:51 - root - INFO - Sensor serial number: %s SM-005
+25-Feb-20 20:06:51 - root - INFO - Database connected!
+25-Feb-20 20:06:51 - root - INFO - PM sensor is getting up
+25-Feb-20 20:06:51 - root - ERROR - PM sensor connection failed!
+25-Feb-20 20:06:51 - root - INFO - New measure
+25-Feb-20 20:06:51 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:06:51 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:06:52 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:06:52 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:06:52 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+25-Feb-20 20:06:53 - root - INFO - Data saved!
+25-Feb-20 20:07:05 - root - WARNING - LCD ERROR
+25-Feb-20 20:18:16 - root - INFO -               Application startup               
+25-Feb-20 20:18:16 - root - INFO - ################################################
+25-Feb-20 20:18:16 - root - INFO - &    **************    ****           ****     &
+25-Feb-20 20:18:16 - root - INFO - &    **************    *****         *****     &
+25-Feb-20 20:18:16 - root - INFO - &    ***               *** **       ** ***     &
+25-Feb-20 20:18:16 - root - INFO - &    ***               ***  **     **  ***     &
+25-Feb-20 20:18:16 - root - INFO - &    ***************   ***   *******   ***     &
+25-Feb-20 20:18:16 - root - INFO - &    ***************   ***     ***     ***     &
+25-Feb-20 20:18:16 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:18:16 - root - INFO - &                ***   ***             ***     &
+25-Feb-20 20:18:16 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:18:16 - root - INFO - &    ***************   ***             ***     &
+25-Feb-20 20:18:16 - root - INFO - ################################################
+25-Feb-20 20:18:16 - root - INFO - Sensor serial number: %s SM-005
+25-Feb-20 20:18:16 - root - INFO - Database connected!
+25-Feb-20 20:18:16 - root - INFO - PM sensor is getting up
+25-Feb-20 20:18:16 - root - ERROR - PM sensor connection failed!
+25-Feb-20 20:18:16 - root - INFO - New measure
+25-Feb-20 20:18:16 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:18:16 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:18:16 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:18:16 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:18:16 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+25-Feb-20 20:18:17 - root - INFO - Data saved!
+25-Feb-20 20:18:48 - root - INFO - New measure
+25-Feb-20 20:18:48 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:18:48 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:18:49 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:18:49 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:18:49 - root - INFO - Data saved!
+25-Feb-20 20:19:20 - root - INFO - New measure
+25-Feb-20 20:19:20 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:19:20 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:19:21 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:19:21 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:19:21 - root - INFO - Data saved!
+25-Feb-20 20:19:52 - root - INFO - New measure
+25-Feb-20 20:19:52 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:19:52 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:19:57 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:19:57 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:19:58 - root - INFO - Data saved!
+25-Feb-20 20:20:29 - root - INFO - New measure
+25-Feb-20 20:20:29 - root - INFO - ------------------------------------------------------------------------
+25-Feb-20 20:20:29 - root - INFO - Getting temperature and humidity
+25-Feb-20 20:20:29 - root - INFO - Getting PM10 and PM2.5 values
+25-Feb-20 20:20:29 - root - INFO - Saving data to Firebase. . . 
+25-Feb-20 20:20:30 - root - INFO - Data saved!
+                                                                                                                                                                                                                                                                                                                                                                                                                26-Feb-20 12:51:46 - root - INFO -               Application startup               
+26-Feb-20 12:51:46 - root - INFO - ################################################
+26-Feb-20 12:51:46 - root - INFO - &    **************    ****           ****     &
+26-Feb-20 12:51:46 - root - INFO - &    **************    *****         *****     &
+26-Feb-20 12:51:46 - root - INFO - &    ***               *** **       ** ***     &
+26-Feb-20 12:51:46 - root - INFO - &    ***               ***  **     **  ***     &
+26-Feb-20 12:51:46 - root - INFO - &    ***************   ***   *******   ***     &
+26-Feb-20 12:51:46 - root - INFO - &    ***************   ***     ***     ***     &
+26-Feb-20 12:51:46 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:51:46 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:51:46 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:51:46 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:51:46 - root - INFO - ################################################
+26-Feb-20 12:51:46 - root - INFO - Sensor serial number: %s SM-005
+26-Feb-20 12:51:46 - root - INFO - Database connected!
+26-Feb-20 12:51:46 - root - INFO - PM sensor is getting up
+26-Feb-20 12:51:46 - root - INFO - PM sensor connection passed!
+26-Feb-20 12:51:46 - root - INFO - New measure
+26-Feb-20 12:51:46 - root - INFO - ------------------------------------------------------------------------
+26-Feb-20 12:51:46 - root - INFO - Getting temperature and humidity
+26-Feb-20 12:51:46 - root - INFO - Getting PM10 and PM2.5 values
+26-Feb-20 12:52:23 - root - INFO -               Application startup               
+26-Feb-20 12:52:23 - root - INFO - ################################################
+26-Feb-20 12:52:23 - root - INFO - &    **************    ****           ****     &
+26-Feb-20 12:52:23 - root - INFO - &    **************    *****         *****     &
+26-Feb-20 12:52:23 - root - INFO - &    ***               *** **       ** ***     &
+26-Feb-20 12:52:23 - root - INFO - &    ***               ***  **     **  ***     &
+26-Feb-20 12:52:23 - root - INFO - &    ***************   ***   *******   ***     &
+26-Feb-20 12:52:23 - root - INFO - &    ***************   ***     ***     ***     &
+26-Feb-20 12:52:23 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:52:23 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:52:23 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:52:23 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:52:23 - root - INFO - ################################################
+26-Feb-20 12:52:23 - root - INFO - Sensor serial number: %s SM-005
+26-Feb-20 12:52:23 - root - INFO - Database connected!
+26-Feb-20 12:52:23 - root - INFO - PM sensor is getting up
+26-Feb-20 12:52:23 - root - INFO - PM sensor connection passed!
+26-Feb-20 12:52:23 - root - INFO - New measure
+26-Feb-20 12:52:23 - root - INFO - ------------------------------------------------------------------------
+26-Feb-20 12:52:23 - root - INFO - Getting temperature and humidity
+26-Feb-20 12:52:23 - root - INFO - Getting PM10 and PM2.5 values
+26-Feb-20 12:56:04 - root - INFO -               Application startup               
+26-Feb-20 12:56:04 - root - INFO - ################################################
+26-Feb-20 12:56:04 - root - INFO - &    **************    ****           ****     &
+26-Feb-20 12:56:04 - root - INFO - &    **************    *****         *****     &
+26-Feb-20 12:56:04 - root - INFO - &    ***               *** **       ** ***     &
+26-Feb-20 12:56:04 - root - INFO - &    ***               ***  **     **  ***     &
+26-Feb-20 12:56:04 - root - INFO - &    ***************   ***   *******   ***     &
+26-Feb-20 12:56:04 - root - INFO - &    ***************   ***     ***     ***     &
+26-Feb-20 12:56:04 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:56:04 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:56:04 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:56:04 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:56:04 - root - INFO - ################################################
+26-Feb-20 12:56:04 - root - INFO - Sensor serial number: %s SM-005
+26-Feb-20 12:56:04 - root - INFO - Database connected!
+26-Feb-20 12:56:04 - root - INFO - PM sensor is getting up
+26-Feb-20 12:56:04 - root - INFO - PM sensor connection passed!
+26-Feb-20 12:56:04 - root - INFO - New measure
+26-Feb-20 12:56:04 - root - INFO - ------------------------------------------------------------------------
+26-Feb-20 12:56:04 - root - INFO - Getting temperature and humidity
+26-Feb-20 12:56:05 - root - INFO - Getting PM10 and PM2.5 values
+26-Feb-20 12:59:58 - root - INFO -               Application startup               
+26-Feb-20 12:59:58 - root - INFO - ################################################
+26-Feb-20 12:59:58 - root - INFO - &    **************    ****           ****     &
+26-Feb-20 12:59:58 - root - INFO - &    **************    *****         *****     &
+26-Feb-20 12:59:58 - root - INFO - &    ***               *** **       ** ***     &
+26-Feb-20 12:59:58 - root - INFO - &    ***               ***  **     **  ***     &
+26-Feb-20 12:59:58 - root - INFO - &    ***************   ***   *******   ***     &
+26-Feb-20 12:59:58 - root - INFO - &    ***************   ***     ***     ***     &
+26-Feb-20 12:59:58 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:59:58 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 12:59:58 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:59:58 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 12:59:58 - root - INFO - ################################################
+26-Feb-20 12:59:58 - root - INFO - Sensor serial number: %s SM-005
+26-Feb-20 12:59:58 - root - INFO - Database connected!
+26-Feb-20 12:59:59 - root - INFO - PM sensor is getting up
+26-Feb-20 12:59:59 - root - INFO - PM sensor connection passed!
+26-Feb-20 12:59:59 - root - INFO - New measure
+26-Feb-20 12:59:59 - root - INFO - ------------------------------------------------------------------------
+26-Feb-20 12:59:59 - root - INFO - Getting temperature and humidity
+26-Feb-20 12:59:59 - root - INFO - Getting PM10 and PM2.5 values
+26-Feb-20 13:00:39 - root - INFO -               Application startup               
+26-Feb-20 13:00:39 - root - INFO - ################################################
+26-Feb-20 13:00:39 - root - INFO - &    **************    ****           ****     &
+26-Feb-20 13:00:39 - root - INFO - &    **************    *****         *****     &
+26-Feb-20 13:00:39 - root - INFO - &    ***               *** **       ** ***     &
+26-Feb-20 13:00:39 - root - INFO - &    ***               ***  **     **  ***     &
+26-Feb-20 13:00:39 - root - INFO - &    ***************   ***   *******   ***     &
+26-Feb-20 13:00:39 - root - INFO - &    ***************   ***     ***     ***     &
+26-Feb-20 13:00:39 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 13:00:39 - root - INFO - &                ***   ***             ***     &
+26-Feb-20 13:00:39 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 13:00:39 - root - INFO - &    ***************   ***             ***     &
+26-Feb-20 13:00:39 - root - INFO - ################################################
+26-Feb-20 13:00:39 - root - INFO - Sensor serial number: %s SM-005
+26-Feb-20 13:00:39 - root - INFO - Database connected!
+26-Feb-20 13:00:39 - root - INFO - PM sensor is getting up
+26-Feb-20 13:00:39 - root - INFO - PM sensor connection passed!
+26-Feb-20 13:00:39 - root - INFO - New measure
+26-Feb-20 13:00:39 - root - INFO - ------------------------------------------------------------------------
+26-Feb-20 13:00:39 - root - INFO - Getting temperature and humidity
+26-Feb-20 13:00:40 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 17:56:45 - root - INFO -               Application startup               
+02-Mar-20 17:56:45 - root - INFO - ################################################
+02-Mar-20 17:56:45 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 17:56:45 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 17:56:45 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 17:56:45 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 17:56:45 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 17:56:45 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 17:56:45 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 17:56:45 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 17:56:45 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 17:56:45 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 17:56:45 - root - INFO - ################################################
+02-Mar-20 17:56:45 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 17:56:45 - root - INFO - Database connected!
+02-Mar-20 17:56:45 - root - INFO - PM sensor is getting up
+02-Mar-20 17:56:45 - root - INFO - PM sensor connection passed!
+02-Mar-20 17:56:45 - root - INFO - New measure
+02-Mar-20 17:56:45 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 17:56:45 - root - INFO - Getting temperature and humidity
+02-Mar-20 17:56:45 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:42:53 - root - INFO -               Application startup               
+02-Mar-20 19:42:53 - root - INFO - ################################################
+02-Mar-20 19:42:53 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 19:42:53 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 19:42:53 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 19:42:53 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 19:42:53 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 19:42:53 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 19:42:53 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:42:53 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:42:53 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:42:53 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:42:53 - root - INFO - ################################################
+02-Mar-20 19:42:53 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 19:42:53 - root - INFO - Database connected!
+02-Mar-20 19:42:53 - root - INFO - PM sensor is getting up
+02-Mar-20 19:42:53 - root - INFO - PM sensor connection passed!
+02-Mar-20 19:42:53 - root - INFO - New measure
+02-Mar-20 19:42:53 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:42:53 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:42:54 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:42:54 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:42:54 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 19:42:55 - root - INFO - Data saved!
+02-Mar-20 19:43:26 - root - INFO -               Application startup               
+02-Mar-20 19:43:26 - root - INFO - ################################################
+02-Mar-20 19:43:26 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 19:43:26 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 19:43:26 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 19:43:26 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 19:43:26 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 19:43:26 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 19:43:26 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:43:26 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:43:26 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:43:26 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:43:26 - root - INFO - ################################################
+02-Mar-20 19:43:26 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 19:43:26 - root - INFO - Database connected!
+02-Mar-20 19:43:26 - root - INFO - PM sensor is getting up
+02-Mar-20 19:43:26 - root - INFO - PM sensor connection passed!
+02-Mar-20 19:43:26 - root - INFO - New measure
+02-Mar-20 19:43:26 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:43:26 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:43:26 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:43:26 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:43:26 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 19:43:27 - root - INFO - Data saved!
+02-Mar-20 19:43:58 - root - INFO - New measure
+02-Mar-20 19:43:58 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:43:58 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:43:59 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:43:59 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:43:59 - root - INFO - Data saved!
+02-Mar-20 19:44:30 - root - INFO - New measure
+02-Mar-20 19:44:30 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:44:30 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:44:31 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:44:31 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:44:31 - root - INFO - Data saved!
+02-Mar-20 19:45:02 - root - INFO - New measure
+02-Mar-20 19:45:02 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:45:02 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:45:03 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:45:03 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:45:03 - root - INFO - Data saved!
+02-Mar-20 19:48:47 - root - INFO -               Application startup               
+02-Mar-20 19:48:47 - root - INFO - ################################################
+02-Mar-20 19:48:47 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 19:48:47 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 19:48:47 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 19:48:47 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 19:48:47 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 19:48:47 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 19:48:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:48:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:48:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:48:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:48:47 - root - INFO - ################################################
+02-Mar-20 19:48:47 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 19:48:47 - root - INFO - Database connected!
+02-Mar-20 19:48:47 - root - INFO - PM sensor is getting up
+02-Mar-20 19:48:47 - root - INFO - PM sensor connection passed!
+02-Mar-20 19:48:47 - root - INFO - New measure
+02-Mar-20 19:48:47 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:48:47 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:48:48 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:48:48 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:48:48 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 19:48:49 - root - INFO - Data saved!
+02-Mar-20 19:52:40 - root - INFO -               Application startup               
+02-Mar-20 19:52:40 - root - INFO - ################################################
+02-Mar-20 19:52:40 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 19:52:40 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 19:52:40 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 19:52:40 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 19:52:40 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 19:52:40 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 19:52:40 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:52:40 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 19:52:40 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:52:40 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 19:52:40 - root - INFO - ################################################
+02-Mar-20 19:52:40 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 19:52:40 - root - INFO - Database connected!
+02-Mar-20 19:52:40 - root - INFO - PM sensor is getting up
+02-Mar-20 19:52:40 - root - INFO - PM sensor connection passed!
+02-Mar-20 19:52:40 - root - INFO - New measure
+02-Mar-20 19:52:40 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:52:40 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:52:41 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:52:41 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:52:41 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 19:52:42 - root - INFO - Data saved!
+02-Mar-20 19:53:13 - root - INFO - New measure
+02-Mar-20 19:53:13 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:53:13 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:53:13 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:53:13 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:53:14 - root - INFO - Data saved!
+02-Mar-20 19:53:45 - root - INFO - New measure
+02-Mar-20 19:53:45 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:53:45 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:53:45 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:53:45 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:53:45 - root - INFO - Data saved!
+02-Mar-20 19:54:17 - root - INFO - New measure
+02-Mar-20 19:54:17 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:54:17 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:54:17 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:54:17 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:54:17 - root - INFO - Data saved!
+02-Mar-20 19:54:48 - root - INFO - New measure
+02-Mar-20 19:54:48 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 19:54:48 - root - INFO - Getting temperature and humidity
+02-Mar-20 19:54:54 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 19:54:54 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 19:54:54 - root - INFO - Data saved!
+02-Mar-20 20:15:00 - root - INFO -               Application startup               
+02-Mar-20 20:15:00 - root - INFO - ################################################
+02-Mar-20 20:15:00 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:15:00 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:15:00 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:15:00 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:15:00 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:15:00 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:15:00 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:15:00 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:15:00 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:15:00 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:15:00 - root - INFO - ################################################
+02-Mar-20 20:15:00 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:15:00 - root - INFO - Database connected!
+02-Mar-20 20:15:00 - root - INFO - PM sensor is getting up
+02-Mar-20 20:15:00 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:15:00 - root - INFO - New measure
+02-Mar-20 20:15:00 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:15:00 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:15:01 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:17:47 - root - INFO -               Application startup               
+02-Mar-20 20:17:47 - root - INFO - ################################################
+02-Mar-20 20:17:47 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:17:47 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:17:47 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:17:47 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:17:47 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:17:47 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:17:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:17:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:17:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:17:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:17:47 - root - INFO - ################################################
+02-Mar-20 20:17:47 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:17:47 - root - INFO - Database connected!
+02-Mar-20 20:17:48 - root - INFO - PM sensor is getting up
+02-Mar-20 20:17:48 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:17:48 - root - INFO - New measure
+02-Mar-20 20:17:48 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:17:48 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:17:48 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:17:49 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:17:49 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 20:17:49 - root - INFO - Data saved!
+02-Mar-20 20:18:11 - root - INFO -               Application startup               
+02-Mar-20 20:18:11 - root - INFO - ################################################
+02-Mar-20 20:18:11 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:18:11 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:18:11 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:18:11 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:18:11 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:18:11 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:18:11 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:18:11 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:18:11 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:18:11 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:18:11 - root - INFO - ################################################
+02-Mar-20 20:18:11 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:18:11 - root - INFO - Database connected!
+02-Mar-20 20:18:22 - root - INFO -               Application startup               
+02-Mar-20 20:18:22 - root - INFO - ################################################
+02-Mar-20 20:18:22 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:18:22 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:18:22 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:18:22 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:18:22 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:18:22 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:18:22 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:18:22 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:18:22 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:18:22 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:18:22 - root - INFO - ################################################
+02-Mar-20 20:18:22 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:18:22 - root - INFO - Database connected!
+02-Mar-20 20:21:00 - root - INFO -               Application startup               
+02-Mar-20 20:21:00 - root - INFO - ################################################
+02-Mar-20 20:21:00 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:21:00 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:21:00 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:21:00 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:21:00 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:21:00 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:21:00 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:21:00 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:21:00 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:21:00 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:21:00 - root - INFO - ################################################
+02-Mar-20 20:21:00 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:21:00 - root - INFO - Database connected!
+02-Mar-20 20:21:00 - root - INFO - PM sensor is getting up
+02-Mar-20 20:21:00 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:21:00 - root - INFO - New measure
+02-Mar-20 20:21:00 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:21:00 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:21:01 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:21:32 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:21:32 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 20:21:33 - root - INFO - Data saved!
+02-Mar-20 20:21:33 - root - INFO - New measure
+02-Mar-20 20:21:33 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:21:33 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:21:33 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:22:04 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:22:04 - root - INFO - Data saved!
+02-Mar-20 20:22:04 - root - INFO - New measure
+02-Mar-20 20:22:04 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:22:04 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:22:07 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:22:39 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:22:39 - root - INFO - Data saved!
+02-Mar-20 20:22:39 - root - INFO - New measure
+02-Mar-20 20:22:39 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:22:39 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:22:42 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:23:13 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:23:13 - root - INFO - Data saved!
+02-Mar-20 20:23:13 - root - INFO - New measure
+02-Mar-20 20:23:13 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:23:13 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:23:21 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:23:53 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:23:53 - root - INFO - Data saved!
+02-Mar-20 20:23:53 - root - INFO - New measure
+02-Mar-20 20:23:53 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:23:53 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:23:53 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:24:24 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:24:25 - root - INFO - Data saved!
+02-Mar-20 20:24:25 - root - INFO - New measure
+02-Mar-20 20:24:25 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:24:25 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:24:30 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:25:01 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:25:02 - root - INFO - Data saved!
+02-Mar-20 20:25:02 - root - INFO - New measure
+02-Mar-20 20:25:02 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:25:02 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:25:02 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:25:33 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:25:33 - root - INFO - Data saved!
+02-Mar-20 20:25:33 - root - INFO - New measure
+02-Mar-20 20:25:33 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:25:33 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:25:34 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:26:05 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:26:05 - root - INFO - Data saved!
+02-Mar-20 20:26:05 - root - INFO - New measure
+02-Mar-20 20:26:05 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:26:05 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:26:06 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:26:29 - root - INFO -               Application startup               
+02-Mar-20 20:26:29 - root - INFO - ################################################
+02-Mar-20 20:26:29 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:26:29 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:26:29 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:26:29 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:26:29 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:26:29 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:26:29 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:26:29 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:26:29 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:26:29 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:26:29 - root - INFO - ################################################
+02-Mar-20 20:26:29 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:26:29 - root - INFO - Database connected!
+02-Mar-20 20:26:43 - root - INFO -               Application startup               
+02-Mar-20 20:26:43 - root - INFO - ################################################
+02-Mar-20 20:26:43 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:26:43 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:26:43 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:26:43 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:26:43 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:26:43 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:26:43 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:26:43 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:26:43 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:26:43 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:26:43 - root - INFO - ################################################
+02-Mar-20 20:26:43 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:26:43 - root - INFO - Database connected!
+02-Mar-20 20:27:47 - root - INFO -               Application startup               
+02-Mar-20 20:27:47 - root - INFO - ################################################
+02-Mar-20 20:27:47 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:27:47 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:27:47 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:27:47 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:27:47 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:27:47 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:27:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:27:47 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:27:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:27:47 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:27:47 - root - INFO - ################################################
+02-Mar-20 20:27:47 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:27:47 - root - INFO - Database connected!
+02-Mar-20 20:27:47 - root - INFO - PM sensor is getting up
+02-Mar-20 20:27:47 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:27:47 - root - INFO - New measure
+02-Mar-20 20:27:47 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:27:47 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:27:48 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:28:39 - root - INFO -               Application startup               
+02-Mar-20 20:28:39 - root - INFO - ################################################
+02-Mar-20 20:28:39 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:28:39 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:28:39 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:28:39 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:28:39 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:28:39 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:28:39 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:28:39 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:28:39 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:28:39 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:28:39 - root - INFO - ################################################
+02-Mar-20 20:28:39 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:28:39 - root - INFO - Database connected!
+02-Mar-20 20:28:39 - root - INFO - PM sensor is getting up
+02-Mar-20 20:28:39 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:28:39 - root - INFO - New measure
+02-Mar-20 20:28:39 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:28:39 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:28:39 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:29:11 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:29:11 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 20:29:12 - root - INFO - Data saved!
+02-Mar-20 20:29:12 - root - INFO - New measure
+02-Mar-20 20:29:12 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:29:12 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:29:12 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:29:44 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:29:45 - root - INFO - Data saved!
+02-Mar-20 20:29:45 - root - INFO - New measure
+02-Mar-20 20:29:45 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:29:45 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:29:45 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:30:17 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:30:17 - root - INFO - Data saved!
+02-Mar-20 20:30:17 - root - INFO - New measure
+02-Mar-20 20:30:17 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:30:17 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:30:18 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:30:50 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:30:50 - root - INFO - Data saved!
+02-Mar-20 20:30:50 - root - INFO - New measure
+02-Mar-20 20:30:50 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:30:50 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:30:53 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:31:26 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:31:26 - root - INFO - Data saved!
+02-Mar-20 20:31:26 - root - INFO - New measure
+02-Mar-20 20:31:26 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:31:26 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:31:26 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:31:59 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:31:59 - root - INFO - Data saved!
+02-Mar-20 20:31:59 - root - INFO - New measure
+02-Mar-20 20:31:59 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:31:59 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:31:59 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:34:24 - root - INFO -               Application startup               
+02-Mar-20 20:34:24 - root - INFO - ################################################
+02-Mar-20 20:34:24 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 20:34:24 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 20:34:24 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 20:34:24 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 20:34:24 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 20:34:24 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 20:34:24 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:34:24 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 20:34:24 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:34:24 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 20:34:24 - root - INFO - ################################################
+02-Mar-20 20:34:24 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 20:34:24 - root - INFO - Database connected!
+02-Mar-20 20:34:24 - root - INFO - PM sensor is getting up
+02-Mar-20 20:34:24 - root - INFO - PM sensor connection passed!
+02-Mar-20 20:34:24 - root - INFO - New measure
+02-Mar-20 20:34:24 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:34:24 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:34:32 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:35:04 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:35:04 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 20:35:05 - root - INFO - Data saved!
+02-Mar-20 20:35:05 - root - INFO - New measure
+02-Mar-20 20:35:05 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:35:05 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:35:06 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:35:38 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:35:38 - root - INFO - Data saved!
+02-Mar-20 20:35:38 - root - INFO - New measure
+02-Mar-20 20:35:38 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:35:38 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:35:44 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:36:16 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:36:16 - root - INFO - Data saved!
+02-Mar-20 20:36:16 - root - INFO - New measure
+02-Mar-20 20:36:16 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:36:16 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:36:17 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:36:49 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:36:49 - root - INFO - Data saved!
+02-Mar-20 20:36:49 - root - INFO - New measure
+02-Mar-20 20:36:49 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:36:49 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:36:50 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:37:22 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:37:22 - root - INFO - Data saved!
+02-Mar-20 20:37:22 - root - INFO - New measure
+02-Mar-20 20:37:22 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:37:22 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:37:23 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:37:55 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:37:55 - root - INFO - Data saved!
+02-Mar-20 20:37:55 - root - INFO - New measure
+02-Mar-20 20:37:55 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:37:55 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:37:56 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:38:28 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:38:28 - root - INFO - Data saved!
+02-Mar-20 20:38:28 - root - INFO - New measure
+02-Mar-20 20:38:28 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:38:28 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:38:31 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:39:03 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:39:03 - root - INFO - Data saved!
+02-Mar-20 20:39:04 - root - INFO - New measure
+02-Mar-20 20:39:04 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:39:04 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:39:04 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:39:36 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:39:36 - root - INFO - Data saved!
+02-Mar-20 20:39:36 - root - INFO - New measure
+02-Mar-20 20:39:36 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:39:36 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:39:37 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:40:09 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:40:09 - root - INFO - Data saved!
+02-Mar-20 20:40:09 - root - INFO - New measure
+02-Mar-20 20:40:09 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:40:09 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:40:10 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:40:42 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:40:42 - root - INFO - Data saved!
+02-Mar-20 20:40:42 - root - INFO - New measure
+02-Mar-20 20:40:42 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:40:42 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:40:43 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:41:15 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:41:15 - root - INFO - Data saved!
+02-Mar-20 20:41:15 - root - INFO - New measure
+02-Mar-20 20:41:15 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:41:15 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:41:16 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:41:48 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:41:48 - root - INFO - Data saved!
+02-Mar-20 20:41:48 - root - INFO - New measure
+02-Mar-20 20:41:48 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:41:48 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:41:51 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:42:24 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:42:24 - root - INFO - Data saved!
+02-Mar-20 20:42:24 - root - INFO - New measure
+02-Mar-20 20:42:24 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:42:24 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:42:24 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:42:57 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:42:57 - root - INFO - Data saved!
+02-Mar-20 20:42:57 - root - INFO - New measure
+02-Mar-20 20:42:57 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:42:57 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:42:57 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:43:30 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:43:30 - root - INFO - Data saved!
+02-Mar-20 20:43:30 - root - INFO - New measure
+02-Mar-20 20:43:30 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:43:30 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:43:30 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:44:03 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:44:03 - root - INFO - Data saved!
+02-Mar-20 20:44:03 - root - INFO - New measure
+02-Mar-20 20:44:03 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:44:03 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:44:03 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:44:36 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:44:36 - root - INFO - Data saved!
+02-Mar-20 20:44:36 - root - INFO - New measure
+02-Mar-20 20:44:36 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:44:36 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:44:36 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:45:08 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:45:09 - root - INFO - Data saved!
+02-Mar-20 20:45:09 - root - INFO - New measure
+02-Mar-20 20:45:09 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:45:09 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:45:09 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:45:41 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:45:42 - root - INFO - Data saved!
+02-Mar-20 20:45:42 - root - INFO - New measure
+02-Mar-20 20:45:42 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:45:42 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:45:42 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:46:14 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:46:15 - root - INFO - Data saved!
+02-Mar-20 20:46:15 - root - INFO - New measure
+02-Mar-20 20:46:15 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:46:15 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:46:15 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:46:47 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:46:48 - root - INFO - Data saved!
+02-Mar-20 20:46:48 - root - INFO - New measure
+02-Mar-20 20:46:48 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:46:48 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:46:48 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:47:20 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:47:20 - root - INFO - Data saved!
+02-Mar-20 20:47:20 - root - INFO - New measure
+02-Mar-20 20:47:20 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:47:20 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:47:21 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:47:53 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:47:53 - root - INFO - Data saved!
+02-Mar-20 20:47:53 - root - INFO - New measure
+02-Mar-20 20:47:53 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:47:53 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:47:54 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:48:26 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:48:26 - root - INFO - Data saved!
+02-Mar-20 20:48:26 - root - INFO - New measure
+02-Mar-20 20:48:26 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:48:26 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:48:27 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:48:59 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:48:59 - root - INFO - Data saved!
+02-Mar-20 20:48:59 - root - INFO - New measure
+02-Mar-20 20:48:59 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:48:59 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:49:00 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:49:32 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:49:32 - root - INFO - Data saved!
+02-Mar-20 20:49:32 - root - INFO - New measure
+02-Mar-20 20:49:32 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:49:32 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:49:33 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:50:05 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:50:05 - root - INFO - Data saved!
+02-Mar-20 20:50:05 - root - INFO - New measure
+02-Mar-20 20:50:05 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:50:05 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:50:06 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:50:38 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:50:38 - root - INFO - Data saved!
+02-Mar-20 20:50:38 - root - INFO - New measure
+02-Mar-20 20:50:38 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:50:38 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:50:41 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:51:14 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:51:14 - root - INFO - Data saved!
+02-Mar-20 20:51:14 - root - INFO - New measure
+02-Mar-20 20:51:14 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:51:14 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:51:17 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:51:49 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:51:49 - root - INFO - Data saved!
+02-Mar-20 20:51:49 - root - INFO - New measure
+02-Mar-20 20:51:49 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:51:49 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:51:50 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:52:22 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:52:22 - root - INFO - Data saved!
+02-Mar-20 20:52:22 - root - INFO - New measure
+02-Mar-20 20:52:22 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:52:22 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:52:23 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:52:55 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:52:55 - root - INFO - Data saved!
+02-Mar-20 20:52:55 - root - INFO - New measure
+02-Mar-20 20:52:55 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:52:55 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:52:56 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:53:28 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:53:28 - root - INFO - Data saved!
+02-Mar-20 20:53:28 - root - INFO - New measure
+02-Mar-20 20:53:28 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:53:28 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:53:29 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:54:01 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:54:02 - root - INFO - Data saved!
+02-Mar-20 20:54:02 - root - INFO - New measure
+02-Mar-20 20:54:02 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:54:02 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:54:02 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:54:35 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:54:35 - root - INFO - Data saved!
+02-Mar-20 20:54:35 - root - INFO - New measure
+02-Mar-20 20:54:35 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:54:35 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:54:36 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:55:08 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:55:08 - root - INFO - Data saved!
+02-Mar-20 20:55:08 - root - INFO - New measure
+02-Mar-20 20:55:08 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:55:08 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:55:09 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:55:41 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:55:41 - root - INFO - Data saved!
+02-Mar-20 20:55:41 - root - INFO - New measure
+02-Mar-20 20:55:41 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:55:41 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:55:42 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:56:14 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:56:14 - root - INFO - Data saved!
+02-Mar-20 20:56:14 - root - INFO - New measure
+02-Mar-20 20:56:14 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:56:14 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:56:15 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:56:47 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:56:47 - root - INFO - Data saved!
+02-Mar-20 20:56:47 - root - INFO - New measure
+02-Mar-20 20:56:47 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:56:47 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:56:48 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:57:20 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:57:20 - root - INFO - Data saved!
+02-Mar-20 20:57:20 - root - INFO - New measure
+02-Mar-20 20:57:20 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:57:20 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:57:20 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:57:53 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:57:53 - root - INFO - Data saved!
+02-Mar-20 20:57:53 - root - INFO - New measure
+02-Mar-20 20:57:53 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:57:53 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:57:53 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:58:26 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:58:26 - root - INFO - Data saved!
+02-Mar-20 20:58:26 - root - INFO - New measure
+02-Mar-20 20:58:26 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:58:26 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:58:26 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:58:59 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:58:59 - root - INFO - Data saved!
+02-Mar-20 20:58:59 - root - INFO - New measure
+02-Mar-20 20:58:59 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:58:59 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:58:59 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 20:59:32 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 20:59:32 - root - INFO - Data saved!
+02-Mar-20 20:59:32 - root - INFO - New measure
+02-Mar-20 20:59:32 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 20:59:32 - root - INFO - Getting temperature and humidity
+02-Mar-20 20:59:32 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 21:00:05 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 21:00:05 - root - INFO - Data saved!
+02-Mar-20 21:00:05 - root - INFO - New measure
+02-Mar-20 21:00:05 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 21:00:05 - root - INFO - Getting temperature and humidity
+02-Mar-20 21:00:05 - root - INFO - Getting PM10 and PM2.5 values
+                                                                                                                                                                                                                                                                                                                                                                                                                02-Mar-20 21:03:26 - root - INFO -               Application startup               
+02-Mar-20 21:03:26 - root - INFO - ################################################
+02-Mar-20 21:03:26 - root - INFO - &    **************    ****           ****     &
+02-Mar-20 21:03:26 - root - INFO - &    **************    *****         *****     &
+02-Mar-20 21:03:26 - root - INFO - &    ***               *** **       ** ***     &
+02-Mar-20 21:03:26 - root - INFO - &    ***               ***  **     **  ***     &
+02-Mar-20 21:03:26 - root - INFO - &    ***************   ***   *******   ***     &
+02-Mar-20 21:03:26 - root - INFO - &    ***************   ***     ***     ***     &
+02-Mar-20 21:03:26 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 21:03:26 - root - INFO - &                ***   ***             ***     &
+02-Mar-20 21:03:26 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 21:03:26 - root - INFO - &    ***************   ***             ***     &
+02-Mar-20 21:03:26 - root - INFO - ################################################
+02-Mar-20 21:03:26 - root - INFO - Sensor serial number: %s SM-005
+02-Mar-20 21:03:26 - root - INFO - Database connected!
+02-Mar-20 21:03:26 - root - INFO - PM sensor is getting up
+02-Mar-20 21:03:26 - root - INFO - PM sensor connection passed!
+02-Mar-20 21:03:26 - root - INFO - New measure
+02-Mar-20 21:03:26 - root - INFO - ------------------------------------------------------------------------
+02-Mar-20 21:03:26 - root - INFO - Getting temperature and humidity
+02-Mar-20 21:03:29 - root - INFO - Getting PM10 and PM2.5 values
+02-Mar-20 21:04:01 - root - INFO - Saving data to Firebase. . . 
+02-Mar-20 21:04:01 - requests.packages.urllib3.connectionpool - INFO - Starting new HTTPS connection (1): mcloud-2a08f.firebaseio.com
+02-Mar-20 21:04:02 - root - INFO - Data saved!
